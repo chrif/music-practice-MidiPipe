@@ -85,7 +85,7 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>595</integer>
+					<integer>584</integer>
 				</dict>
 			</array>
 		</dict>
@@ -198,7 +198,7 @@
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{286, 955}</string>
+		<string>{307, 932}</string>
 		<string>{547, 32}</string>
 		<integer>623361919</integer>
 		<string>iConnectMIDI4+ - DIN 3</string>
@@ -403,7 +403,7 @@
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{265, 978}</string>
+		<string>{286, 955}</string>
 		<string>{547, 32}</string>
 		<integer>-1678970022</integer>
 		<string>iConnectMIDI4+ - DIN 4</string>
@@ -797,7 +797,7 @@
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{307, 932}</string>
+		<string>{328, 909}</string>
 		<string>{547, 32}</string>
 		<integer>159858373</integer>
 		<string>IAC Driver - Buttons as Notes</string>
@@ -952,7 +952,7 @@
 		</dict>
 		<string>ChannelFilter</string>
 		<string>Channel Filter</string>
-		<string>{389, 915}</string>
+		<string>{368, 938}</string>
 		<string>{547, 32}</string>
 		<dict>
 			<key>$classes</key>
@@ -1291,7 +1291,7 @@
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{328, 909}</string>
+		<string>{349, 886}</string>
 		<string>{547, 32}</string>
 		<integer>159858373</integer>
 		<string>IAC Driver - Buttons as Notes</string>
@@ -1434,7 +1434,7 @@
 		</dict>
 		<string>ChannelFilter</string>
 		<string>Channel Filter</string>
-		<string>{410, 892}</string>
+		<string>{389, 915}</string>
 		<string>{547, 32}</string>
 		<dict>
 			<key>$class</key>
@@ -1749,7 +1749,7 @@
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{349, 886}</string>
+		<string>{370, 863}</string>
 		<string>{547, 32}</string>
 		<integer>159858373</integer>
 		<string>IAC Driver - Buttons as Notes</string>
@@ -1892,7 +1892,7 @@
 		</dict>
 		<string>ChannelFilter</string>
 		<string>Channel Filter</string>
-		<string>{431, 869}</string>
+		<string>{410, 892}</string>
 		<string>{547, 32}</string>
 		<dict>
 			<key>$class</key>
@@ -2207,7 +2207,7 @@
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{370, 863}</string>
+		<string>{391, 840}</string>
 		<string>{547, 32}</string>
 		<integer>159858373</integer>
 		<string>IAC Driver - Buttons as Notes</string>
@@ -2350,7 +2350,7 @@
 		</dict>
 		<string>ChannelFilter</string>
 		<string>Channel Filter</string>
-		<string>{452, 846}</string>
+		<string>{431, 869}</string>
 		<string>{547, 32}</string>
 		<dict>
 			<key>$class</key>
@@ -2665,7 +2665,7 @@
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{391, 840}</string>
+		<string>{412, 817}</string>
 		<string>{547, 32}</string>
 		<integer>159858373</integer>
 		<string>IAC Driver - Buttons as Notes</string>
@@ -2808,7 +2808,7 @@
 		</dict>
 		<string>ChannelFilter</string>
 		<string>Channel Filter</string>
-		<string>{473, 823}</string>
+		<string>{452, 846}</string>
 		<string>{547, 32}</string>
 		<dict>
 			<key>$class</key>
@@ -3123,7 +3123,7 @@
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{412, 817}</string>
+		<string>{433, 794}</string>
 		<string>{547, 32}</string>
 		<integer>159858373</integer>
 		<string>IAC Driver - Buttons as Notes</string>
@@ -3266,7 +3266,7 @@
 		</dict>
 		<string>ChannelFilter</string>
 		<string>Channel Filter</string>
-		<string>{494, 800}</string>
+		<string>{473, 823}</string>
 		<string>{547, 32}</string>
 		<dict>
 			<key>$class</key>
@@ -3581,7 +3581,7 @@
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{433, 794}</string>
+		<string>{454, 771}</string>
 		<string>{547, 32}</string>
 		<integer>159858373</integer>
 		<string>IAC Driver - Buttons as Notes</string>
@@ -3724,7 +3724,7 @@
 		</dict>
 		<string>ChannelFilter</string>
 		<string>Channel Filter</string>
-		<string>{515, 777}</string>
+		<string>{494, 800}</string>
 		<string>{547, 32}</string>
 		<dict>
 			<key>$class</key>
@@ -4027,7 +4027,7 @@
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{454, 771}</string>
+		<string>{475, 748}</string>
 		<string>{547, 32}</string>
 		<integer>-318508741</integer>
 		<string>IAC Driver - B1</string>
@@ -4068,7 +4068,7 @@
 		</dict>
 		<string>ChannelFilter</string>
 		<string>Channel Filter</string>
-		<string>{536, 754}</string>
+		<string>{515, 777}</string>
 		<string>{547, 32}</string>
 		<dict>
 			<key>$class</key>
@@ -4293,7 +4293,7 @@
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{475, 748}</string>
+		<string>{496, 725}</string>
 		<string>{547, 32}</string>
 		<integer>88233588</integer>
 		<string>IAC Driver - B2</string>
@@ -4334,7 +4334,7 @@
 		</dict>
 		<string>ChannelFilter</string>
 		<string>Channel Filter</string>
-		<string>{557, 731}</string>
+		<string>{536, 754}</string>
 		<string>{547, 32}</string>
 		<dict>
 			<key>$class</key>
@@ -4626,7 +4626,7 @@
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{496, 725}</string>
+		<string>{517, 702}</string>
 		<string>{547, 32}</string>
 		<integer>-1353315829</integer>
 		<string>IAC Driver - B3</string>
@@ -4667,7 +4667,7 @@
 		</dict>
 		<string>ChannelFilter</string>
 		<string>Channel Filter</string>
-		<string>{578, 708}</string>
+		<string>{557, 731}</string>
 		<string>{547, 32}</string>
 		<dict>
 			<key>$class</key>
@@ -4892,7 +4892,7 @@
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{517, 702}</string>
+		<string>{538, 679}</string>
 		<string>{547, 32}</string>
 		<integer>1123399565</integer>
 		<string>IAC Driver - B4</string>
@@ -4933,7 +4933,7 @@
 		</dict>
 		<string>ChannelFilter</string>
 		<string>Channel Filter</string>
-		<string>{599, 685}</string>
+		<string>{578, 708}</string>
 		<string>{547, 32}</string>
 		<dict>
 			<key>$class</key>
@@ -5225,7 +5225,7 @@
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{538, 679}</string>
+		<string>{559, 656}</string>
 		<string>{547, 32}</string>
 		<integer>-1967897981</integer>
 		<string>IAC Driver - B5</string>
@@ -5266,7 +5266,7 @@
 		</dict>
 		<string>ChannelFilter</string>
 		<string>Channel Filter</string>
-		<string>{620, 662}</string>
+		<string>{599, 685}</string>
 		<string>{547, 32}</string>
 		<dict>
 			<key>$class</key>
@@ -5422,7 +5422,7 @@
 				<integer>493</integer>
 			</dict>
 		</dict>
-		<string>GB1 Start Practice</string>
+		<string>GB1 Start Practice BWV 578</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5494,7 +5494,7 @@
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{559, 656}</string>
+		<string>{580, 633}</string>
 		<string>{547, 32}</string>
 		<integer>-318508741</integer>
 		<string>IAC Driver - B1</string>
@@ -5535,7 +5535,7 @@
 		</dict>
 		<string>ChannelFilter</string>
 		<string>Channel Filter</string>
-		<string>{641, 639}</string>
+		<string>{620, 662}</string>
 		<string>{547, 32}</string>
 		<dict>
 			<key>$class</key>
@@ -5579,7 +5579,7 @@
 		</dict>
 		<string>AppleScriptTrigger</string>
 		<string>AppleScript Trigger</string>
-		<string>{358, 939}</string>
+		<string>{442, 847}</string>
 		<string>{547, 32}</string>
 		<dict>
 			<key>$class</key>
@@ -5589,7 +5589,7 @@
 			</dict>
 			<key>NS.string</key>
 			<string>on runme(message)
-tell application "Music Practice Start" to activate
+tell application "Music Practice Start BWV 578" to activate
 end runme</string>
 		</dict>
 		<dict>
@@ -5703,7 +5703,7 @@ end runme</string>
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{580, 633}</string>
+		<string>{601, 610}</string>
 		<string>{547, 32}</string>
 		<integer>88233588</integer>
 		<string>IAC Driver - B2</string>
@@ -5744,7 +5744,7 @@ end runme</string>
 		</dict>
 		<string>ChannelFilter</string>
 		<string>Channel Filter</string>
-		<string>{368, 938}</string>
+		<string>{641, 639}</string>
 		<string>{547, 32}</string>
 		<dict>
 			<key>$class</key>
@@ -5788,7 +5788,7 @@ end runme</string>
 		</dict>
 		<string>AppleScriptTrigger</string>
 		<string>AppleScript Trigger</string>
-		<string>{379, 916}</string>
+		<string>{463, 824}</string>
 		<string>{547, 32}</string>
 		<dict>
 			<key>$class</key>
@@ -5894,7 +5894,7 @@ end runme</string>
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{601, 610}</string>
+		<string>{622, 587}</string>
 		<string>{547, 32}</string>
 		<integer>-1353315829</integer>
 		<string>IAC Driver - B3</string>
@@ -6080,7 +6080,7 @@ end runme</string>
 				<integer>564</integer>
 			</dict>
 		</dict>
-		<string>GB4 Floating div 2</string>
+		<string>GB4 Start Practice Exercises</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6100,14 +6100,6 @@ end runme</string>
 				<dict>
 					<key>CF$UID</key>
 					<integer>578</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>583</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>588</integer>
 				</dict>
 			</array>
 		</dict>
@@ -6160,7 +6152,7 @@ end runme</string>
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{622, 587}</string>
+		<string>{643, 564}</string>
 		<string>{547, 32}</string>
 		<integer>1123399565</integer>
 		<string>IAC Driver - B4</string>
@@ -6207,12 +6199,8 @@ end runme</string>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>47</integer>
+				<integer>514</integer>
 			</dict>
-			<key>changeChannel</key>
-			<true/>
-			<key>channel</key>
-			<integer>12</integer>
 			<key>currentFrame.origin</key>
 			<dict>
 				<key>CF$UID</key>
@@ -6223,26 +6211,10 @@ end runme</string>
 				<key>CF$UID</key>
 				<integer>582</integer>
 			</dict>
-			<key>duplicate</key>
-			<false/>
 			<key>enabled</key>
 			<true/>
-			<key>exchange</key>
-			<false/>
 			<key>group</key>
-			<integer>3</integer>
-			<key>in</key>
-			<integer>6</integer>
-			<key>in_cc_value</key>
-			<integer>0</integer>
-			<key>in_nrpn_lsb_value</key>
-			<integer>0</integer>
-			<key>in_nrpn_msb_value</key>
-			<integer>0</integer>
-			<key>in_rpn_lsb_value</key>
-			<integer>0</integer>
-			<key>in_rpn_msb_value</key>
-			<integer>0</integer>
+			<integer>2</integer>
 			<key>name</key>
 			<dict>
 				<key>CF$UID</key>
@@ -6253,153 +6225,31 @@ end runme</string>
 				<key>CF$UID</key>
 				<integer>579</integer>
 			</dict>
-			<key>out</key>
-			<integer>6</integer>
-			<key>out_cc_value</key>
-			<integer>2</integer>
-			<key>out_nrpn_lsb_value</key>
-			<integer>0</integer>
-			<key>out_nrpn_msb_value</key>
-			<integer>0</integer>
-			<key>out_rpn_lsb_value</key>
-			<integer>0</integer>
-			<key>out_rpn_msb_value</key>
-			<integer>0</integer>
-			<key>panelMode</key>
-			<false/>
-			<key>set</key>
-			<integer>64</integer>
-		</dict>
-		<string>EventConverter</string>
-		<string>Message Converter</string>
-		<string>{753, 608}</string>
-		<string>{547, 32}</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>47</integer>
-			</dict>
-			<key>changeChannel</key>
-			<true/>
-			<key>channel</key>
-			<integer>12</integer>
-			<key>currentFrame.origin</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>586</integer>
-			</dict>
-			<key>currentFrame.size</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>587</integer>
-			</dict>
-			<key>duplicate</key>
-			<false/>
-			<key>enabled</key>
-			<true/>
-			<key>exchange</key>
-			<false/>
-			<key>group</key>
-			<integer>3</integer>
-			<key>in</key>
-			<integer>6</integer>
-			<key>in_cc_value</key>
-			<integer>1</integer>
-			<key>in_nrpn_lsb_value</key>
-			<integer>0</integer>
-			<key>in_nrpn_msb_value</key>
-			<integer>0</integer>
-			<key>in_rpn_lsb_value</key>
-			<integer>0</integer>
-			<key>in_rpn_msb_value</key>
-			<integer>0</integer>
-			<key>name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>585</integer>
-			</dict>
-			<key>nibName</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>584</integer>
-			</dict>
-			<key>out</key>
-			<integer>6</integer>
-			<key>out_cc_value</key>
-			<integer>2</integer>
-			<key>out_nrpn_lsb_value</key>
-			<integer>0</integer>
-			<key>out_nrpn_msb_value</key>
-			<integer>0</integer>
-			<key>out_rpn_lsb_value</key>
-			<integer>0</integer>
-			<key>out_rpn_msb_value</key>
-			<integer>0</integer>
-			<key>panelMode</key>
-			<false/>
-			<key>set</key>
-			<integer>64</integer>
-		</dict>
-		<string>EventConverter</string>
-		<string>Message Converter</string>
-		<string>{774, 585}</string>
-		<string>{547, 32}</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>55</integer>
-			</dict>
-			<key>currentFrame.origin</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>591</integer>
-			</dict>
-			<key>currentFrame.size</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>592</integer>
-			</dict>
-			<key>currentID</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>593</integer>
-			</dict>
-			<key>currentName</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>594</integer>
-			</dict>
-			<key>currentVirtual</key>
-			<false/>
-			<key>enabled</key>
-			<true/>
-			<key>group</key>
-			<integer>2</integer>
-			<key>name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>590</integer>
-			</dict>
-			<key>nibName</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>589</integer>
-			</dict>
-			<key>noteOffVelocity</key>
-			<false/>
 			<key>panelMode</key>
 			<false/>
 			<key>passThrough</key>
 			<true/>
+			<key>text</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>583</integer>
+			</dict>
 		</dict>
-		<string>MidiOut</string>
-		<string>Midi Out</string>
-		<string>{631, 640}</string>
+		<string>AppleScriptTrigger</string>
+		<string>AppleScript Trigger</string>
+		<string>{484, 801}</string>
 		<string>{547, 32}</string>
-		<integer>1916000018</integer>
-		<string>IAC Driver - MidiPipe</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>513</integer>
+			</dict>
+			<key>NS.string</key>
+			<string>on runme(message)
+tell application "Music Practice Start Exercises" to activate
+end runme</string>
+		</dict>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6409,12 +6259,12 @@ end runme</string>
 			<key>list</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>597</integer>
+				<integer>586</integer>
 			</dict>
 			<key>name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>596</integer>
+				<integer>585</integer>
 			</dict>
 		</dict>
 		<string>GB5 Volume max</string>
@@ -6428,15 +6278,15 @@ end runme</string>
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>598</integer>
+					<integer>587</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>605</integer>
+					<integer>594</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>610</integer>
+					<integer>599</integer>
 				</dict>
 			</array>
 		</dict>
@@ -6449,22 +6299,22 @@ end runme</string>
 			<key>currentFrame.origin</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>601</integer>
+				<integer>590</integer>
 			</dict>
 			<key>currentFrame.size</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>602</integer>
+				<integer>591</integer>
 			</dict>
 			<key>currentID</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>603</integer>
+				<integer>592</integer>
 			</dict>
 			<key>currentName</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>604</integer>
+				<integer>593</integer>
 			</dict>
 			<key>currentVirtual</key>
 			<false/>
@@ -6477,19 +6327,19 @@ end runme</string>
 			<key>name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>600</integer>
+				<integer>589</integer>
 			</dict>
 			<key>nibName</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>599</integer>
+				<integer>588</integer>
 			</dict>
 			<key>panelMode</key>
 			<false/>
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{643, 564}</string>
+		<string>{664, 541}</string>
 		<string>{547, 32}</string>
 		<integer>-1967897981</integer>
 		<string>IAC Driver - B5</string>
@@ -6502,12 +6352,12 @@ end runme</string>
 			<key>currentFrame.origin</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>608</integer>
+				<integer>597</integer>
 			</dict>
 			<key>currentFrame.size</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>609</integer>
+				<integer>598</integer>
 			</dict>
 			<key>enabled</key>
 			<true/>
@@ -6516,12 +6366,12 @@ end runme</string>
 			<key>name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>607</integer>
+				<integer>596</integer>
 			</dict>
 			<key>nibName</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>606</integer>
+				<integer>595</integer>
 			</dict>
 			<key>panelMode</key>
 			<false/>
@@ -6541,12 +6391,12 @@ end runme</string>
 			<key>currentFrame.origin</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>613</integer>
+				<integer>602</integer>
 			</dict>
 			<key>currentFrame.size</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>614</integer>
+				<integer>603</integer>
 			</dict>
 			<key>enabled</key>
 			<true/>
@@ -6555,12 +6405,12 @@ end runme</string>
 			<key>name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>612</integer>
+				<integer>601</integer>
 			</dict>
 			<key>nibName</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>611</integer>
+				<integer>600</integer>
 			</dict>
 			<key>panelMode</key>
 			<false/>
@@ -6569,12 +6419,12 @@ end runme</string>
 			<key>text</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>615</integer>
+				<integer>604</integer>
 			</dict>
 		</dict>
 		<string>AppleScriptTrigger</string>
 		<string>AppleScript Trigger</string>
-		<string>{400, 893}</string>
+		<string>{505, 778}</string>
 		<string>{547, 32}</string>
 		<dict>
 			<key>$class</key>
