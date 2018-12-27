@@ -50,3 +50,10 @@ Button 5       filters out correct Note and converts it to Control Change 
 ### Notes
 
 - Buttons 2 and 4 have 2 states and can act as toggle buttons if needed.
+- Command to refresh xml
+    ```
+    php bin/mipi-to-xml.php src/2\ Yamaha\ Piaggero\ NP-12.mipi > src/2\ Yamaha\ Piaggero\ NP-12.xml
+    ```
+- Labels: https://docs.google.com/document/d/1VHautUKJs_bytvwkqki_gwo9WYxkBGP5P9DlhsmKUlY/edit?usp=sharing
+
+  Version history has commit ids when labels change.
