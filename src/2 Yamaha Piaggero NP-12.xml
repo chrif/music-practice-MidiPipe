@@ -198,7 +198,7 @@
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{307, 932}</string>
+		<string>{286, 955}</string>
 		<string>{547, 32}</string>
 		<integer>623361919</integer>
 		<string>iConnectMIDI4+ - DIN 3</string>
@@ -403,7 +403,7 @@
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{286, 955}</string>
+		<string>{265, 978}</string>
 		<string>{547, 32}</string>
 		<integer>-1678970022</integer>
 		<string>iConnectMIDI4+ - DIN 4</string>
@@ -797,7 +797,7 @@
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{328, 909}</string>
+		<string>{307, 932}</string>
 		<string>{547, 32}</string>
 		<integer>159858373</integer>
 		<string>IAC Driver - Buttons as Notes</string>
@@ -1291,7 +1291,7 @@
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{349, 886}</string>
+		<string>{328, 909}</string>
 		<string>{547, 32}</string>
 		<integer>159858373</integer>
 		<string>IAC Driver - Buttons as Notes</string>
@@ -1749,7 +1749,7 @@
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{370, 863}</string>
+		<string>{349, 886}</string>
 		<string>{547, 32}</string>
 		<integer>159858373</integer>
 		<string>IAC Driver - Buttons as Notes</string>
@@ -2207,7 +2207,7 @@
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{391, 840}</string>
+		<string>{370, 863}</string>
 		<string>{547, 32}</string>
 		<integer>159858373</integer>
 		<string>IAC Driver - Buttons as Notes</string>
@@ -2665,7 +2665,7 @@
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{412, 817}</string>
+		<string>{391, 840}</string>
 		<string>{547, 32}</string>
 		<integer>159858373</integer>
 		<string>IAC Driver - Buttons as Notes</string>
@@ -3123,7 +3123,7 @@
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{433, 794}</string>
+		<string>{412, 817}</string>
 		<string>{547, 32}</string>
 		<integer>159858373</integer>
 		<string>IAC Driver - Buttons as Notes</string>
@@ -3581,7 +3581,7 @@
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{454, 771}</string>
+		<string>{433, 794}</string>
 		<string>{547, 32}</string>
 		<integer>159858373</integer>
 		<string>IAC Driver - Buttons as Notes</string>
@@ -4027,7 +4027,7 @@
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{475, 748}</string>
+		<string>{454, 771}</string>
 		<string>{547, 32}</string>
 		<integer>-318508741</integer>
 		<string>IAC Driver - B1</string>
@@ -4293,7 +4293,7 @@
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{496, 725}</string>
+		<string>{475, 748}</string>
 		<string>{547, 32}</string>
 		<integer>88233588</integer>
 		<string>IAC Driver - B2</string>
@@ -4626,7 +4626,7 @@
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{517, 702}</string>
+		<string>{496, 725}</string>
 		<string>{547, 32}</string>
 		<integer>-1353315829</integer>
 		<string>IAC Driver - B3</string>
@@ -4892,7 +4892,7 @@
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{538, 679}</string>
+		<string>{517, 702}</string>
 		<string>{547, 32}</string>
 		<integer>1123399565</integer>
 		<string>IAC Driver - B4</string>
@@ -5225,7 +5225,7 @@
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{559, 656}</string>
+		<string>{538, 679}</string>
 		<string>{547, 32}</string>
 		<integer>-1967897981</integer>
 		<string>IAC Driver - B5</string>
@@ -5494,7 +5494,7 @@
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{580, 633}</string>
+		<string>{559, 656}</string>
 		<string>{547, 32}</string>
 		<integer>-318508741</integer>
 		<string>IAC Driver - B1</string>
@@ -5579,7 +5579,7 @@
 		</dict>
 		<string>AppleScriptTrigger</string>
 		<string>AppleScript Trigger</string>
-		<string>{442, 847}</string>
+		<string>{358, 939}</string>
 		<string>{547, 32}</string>
 		<dict>
 			<key>$class</key>
@@ -5703,7 +5703,7 @@ end runme</string>
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{601, 610}</string>
+		<string>{580, 633}</string>
 		<string>{547, 32}</string>
 		<integer>88233588</integer>
 		<string>IAC Driver - B2</string>
@@ -5788,7 +5788,7 @@ end runme</string>
 		</dict>
 		<string>AppleScriptTrigger</string>
 		<string>AppleScript Trigger</string>
-		<string>{463, 824}</string>
+		<string>{379, 916}</string>
 		<string>{547, 32}</string>
 		<dict>
 			<key>$class</key>
@@ -5894,7 +5894,7 @@ end runme</string>
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{622, 587}</string>
+		<string>{601, 610}</string>
 		<string>{547, 32}</string>
 		<integer>-1353315829</integer>
 		<string>IAC Driver - B3</string>
@@ -6080,7 +6080,7 @@ end runme</string>
 				<integer>564</integer>
 			</dict>
 		</dict>
-		<string>GB4 Start Practice Exercises</string>
+		<string>GB4 Start Practice BWV 784</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -6152,7 +6152,7 @@ end runme</string>
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{643, 564}</string>
+		<string>{622, 587}</string>
 		<string>{547, 32}</string>
 		<integer>1123399565</integer>
 		<string>IAC Driver - B4</string>
@@ -6237,7 +6237,7 @@ end runme</string>
 		</dict>
 		<string>AppleScriptTrigger</string>
 		<string>AppleScript Trigger</string>
-		<string>{484, 801}</string>
+		<string>{400, 893}</string>
 		<string>{547, 32}</string>
 		<dict>
 			<key>$class</key>
@@ -6247,7 +6247,7 @@ end runme</string>
 			</dict>
 			<key>NS.string</key>
 			<string>on runme(message)
-tell application "Music Practice Start Exercises" to activate
+tell application "Music Practice Start BWV 784" to activate
 end runme</string>
 		</dict>
 		<dict>
@@ -6339,7 +6339,7 @@ end runme</string>
 		</dict>
 		<string>MidiIn</string>
 		<string>Midi In</string>
-		<string>{664, 541}</string>
+		<string>{643, 564}</string>
 		<string>{547, 32}</string>
 		<integer>-1967897981</integer>
 		<string>IAC Driver - B5</string>
@@ -6424,7 +6424,7 @@ end runme</string>
 		</dict>
 		<string>AppleScriptTrigger</string>
 		<string>AppleScript Trigger</string>
-		<string>{505, 778}</string>
+		<string>{421, 870}</string>
 		<string>{547, 32}</string>
 		<dict>
 			<key>$class</key>
