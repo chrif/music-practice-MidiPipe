@@ -49,4 +49,4 @@ Button 5       filters out correct Note and converts it to Control Change 
 
 ### Notes
 
-- Buttons 2 and 4 have 2 states and can as act toggle buttons if needed.
+- Buttons 2 and 4 have 2 states and can act as toggle buttons if needed.
