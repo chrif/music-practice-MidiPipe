@@ -87,6 +87,22 @@
 					<key>CF$UID</key>
 					<integer>584</integer>
 				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>605</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>622</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>639</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>656</integer>
+				</dict>
 			</array>
 		</dict>
 		<dict>
@@ -657,7 +673,7 @@
 		</dict>
 		<string>MidiOut</string>
 		<string>Midi Out</string>
-		<string>{337, 962}</string>
+		<string>{379, 916}</string>
 		<string>{547, 32}</string>
 		<integer>1146055411</integer>
 		<string>IAC Driver - Buttons as Notes</string>
@@ -1182,7 +1198,7 @@
 		</dict>
 		<string>MidiOut</string>
 		<string>Midi Out</string>
-		<string>{358, 939}</string>
+		<string>{400, 893}</string>
 		<string>{547, 32}</string>
 		<integer>-1288239286</integer>
 		<string>IAC Driver - B1</string>
@@ -1640,7 +1656,7 @@
 		</dict>
 		<string>MidiOut</string>
 		<string>Midi Out</string>
-		<string>{379, 916}</string>
+		<string>{421, 870}</string>
 		<string>{547, 32}</string>
 		<integer>-1688305123</integer>
 		<string>IAC Driver - B2</string>
@@ -2098,7 +2114,7 @@
 		</dict>
 		<string>MidiOut</string>
 		<string>Midi Out</string>
-		<string>{400, 893}</string>
+		<string>{442, 847}</string>
 		<string>{547, 32}</string>
 		<integer>-1688305123</integer>
 		<string>IAC Driver - B2</string>
@@ -2556,7 +2572,7 @@
 		</dict>
 		<string>MidiOut</string>
 		<string>Midi Out</string>
-		<string>{421, 870}</string>
+		<string>{463, 824}</string>
 		<string>{547, 32}</string>
 		<integer>905482481</integer>
 		<string>IAC Driver - B3</string>
@@ -3014,7 +3030,7 @@
 		</dict>
 		<string>MidiOut</string>
 		<string>Midi Out</string>
-		<string>{442, 847}</string>
+		<string>{484, 801}</string>
 		<string>{547, 32}</string>
 		<integer>376063131</integer>
 		<string>IAC Driver - B4</string>
@@ -3472,7 +3488,7 @@
 		</dict>
 		<string>MidiOut</string>
 		<string>Midi Out</string>
-		<string>{463, 824}</string>
+		<string>{505, 778}</string>
 		<string>{547, 32}</string>
 		<integer>376063131</integer>
 		<string>IAC Driver - B4</string>
@@ -3930,7 +3946,7 @@
 		</dict>
 		<string>MidiOut</string>
 		<string>Midi Out</string>
-		<string>{484, 801}</string>
+		<string>{526, 755}</string>
 		<string>{547, 32}</string>
 		<integer>-1216072566</integer>
 		<string>IAC Driver - B5</string>
@@ -4192,7 +4208,7 @@
 		</dict>
 		<string>MidiOut</string>
 		<string>Midi Out</string>
-		<string>{505, 778}</string>
+		<string>{547, 732}</string>
 		<string>{547, 32}</string>
 		<integer>1916000018</integer>
 		<string>IAC Driver - MidiPipe</string>
@@ -4529,7 +4545,7 @@
 		</dict>
 		<string>MidiOut</string>
 		<string>Midi Out</string>
-		<string>{526, 755}</string>
+		<string>{568, 709}</string>
 		<string>{547, 32}</string>
 		<integer>1916000018</integer>
 		<string>IAC Driver - MidiPipe</string>
@@ -4791,7 +4807,7 @@
 		</dict>
 		<string>MidiOut</string>
 		<string>Midi Out</string>
-		<string>{547, 732}</string>
+		<string>{589, 686}</string>
 		<string>{547, 32}</string>
 		<integer>1916000018</integer>
 		<string>IAC Driver - MidiPipe</string>
@@ -5128,7 +5144,7 @@
 		</dict>
 		<string>MidiOut</string>
 		<string>Midi Out</string>
-		<string>{568, 709}</string>
+		<string>{610, 663}</string>
 		<string>{547, 32}</string>
 		<integer>1916000018</integer>
 		<string>IAC Driver - MidiPipe</string>
@@ -5401,7 +5417,7 @@
 		</dict>
 		<string>MidiOut</string>
 		<string>Midi Out</string>
-		<string>{589, 686}</string>
+		<string>{631, 640}</string>
 		<string>{547, 32}</string>
 		<integer>1916000018</integer>
 		<string>IAC Driver - MidiPipe</string>
@@ -6059,7 +6075,7 @@ end runme</string>
 		</dict>
 		<string>MidiOut</string>
 		<string>Midi Out</string>
-		<string>{610, 663}</string>
+		<string>{652, 617}</string>
 		<string>{547, 32}</string>
 		<integer>1916000018</integer>
 		<string>IAC Driver - MidiPipe</string>
@@ -6437,6 +6453,582 @@ end runme</string>
 set volume output volume 100
 end runme</string>
 		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>57</integer>
+			</dict>
+			<key>list</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>607</integer>
+			</dict>
+			<key>name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>606</integer>
+			</dict>
+		</dict>
+		<string>iPhone-CF Bluetooth In</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>56</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>608</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>615</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>12</integer>
+			</dict>
+			<key>currentFrame.origin</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>611</integer>
+			</dict>
+			<key>currentFrame.size</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>612</integer>
+			</dict>
+			<key>currentID</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>613</integer>
+			</dict>
+			<key>currentName</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>614</integer>
+			</dict>
+			<key>currentVirtual</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>group</key>
+			<integer>1</integer>
+			<key>isHijacked</key>
+			<false/>
+			<key>name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>610</integer>
+			</dict>
+			<key>nibName</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>609</integer>
+			</dict>
+			<key>panelMode</key>
+			<false/>
+		</dict>
+		<string>MidiIn</string>
+		<string>Midi In</string>
+		<string>{685, 518}</string>
+		<string>{547, 32}</string>
+		<integer>-974213771</integer>
+		<string>iPhone-CF - Bluetooth</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>55</integer>
+			</dict>
+			<key>currentFrame.origin</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>618</integer>
+			</dict>
+			<key>currentFrame.size</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>619</integer>
+			</dict>
+			<key>currentID</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>620</integer>
+			</dict>
+			<key>currentName</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>621</integer>
+			</dict>
+			<key>currentVirtual</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>group</key>
+			<integer>2</integer>
+			<key>name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>617</integer>
+			</dict>
+			<key>nibName</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>616</integer>
+			</dict>
+			<key>noteOffVelocity</key>
+			<false/>
+			<key>panelMode</key>
+			<false/>
+			<key>passThrough</key>
+			<true/>
+		</dict>
+		<string>MidiOut</string>
+		<string>Midi Out</string>
+		<string>{673, 594}</string>
+		<string>{547, 32}</string>
+		<integer>707300495</integer>
+		<string>IAC Driver - iPhone-CF Bluetooth Proxy In</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>57</integer>
+			</dict>
+			<key>list</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>624</integer>
+			</dict>
+			<key>name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>623</integer>
+			</dict>
+		</dict>
+		<string>iPhone-CF Bluetooth Out</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>56</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>625</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>632</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>12</integer>
+			</dict>
+			<key>currentFrame.origin</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>628</integer>
+			</dict>
+			<key>currentFrame.size</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>629</integer>
+			</dict>
+			<key>currentID</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>630</integer>
+			</dict>
+			<key>currentName</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>631</integer>
+			</dict>
+			<key>currentVirtual</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>group</key>
+			<integer>1</integer>
+			<key>isHijacked</key>
+			<false/>
+			<key>name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>627</integer>
+			</dict>
+			<key>nibName</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>626</integer>
+			</dict>
+			<key>panelMode</key>
+			<false/>
+		</dict>
+		<string>MidiIn</string>
+		<string>Midi In</string>
+		<string>{706, 495}</string>
+		<string>{547, 32}</string>
+		<integer>1080970173</integer>
+		<string>IAC Driver - iPhone-CF Bluetooth Proxy Out</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>55</integer>
+			</dict>
+			<key>currentFrame.origin</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>635</integer>
+			</dict>
+			<key>currentFrame.size</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>636</integer>
+			</dict>
+			<key>currentID</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>637</integer>
+			</dict>
+			<key>currentName</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>638</integer>
+			</dict>
+			<key>currentVirtual</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>group</key>
+			<integer>2</integer>
+			<key>name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>634</integer>
+			</dict>
+			<key>nibName</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>633</integer>
+			</dict>
+			<key>noteOffVelocity</key>
+			<false/>
+			<key>panelMode</key>
+			<false/>
+			<key>passThrough</key>
+			<true/>
+		</dict>
+		<string>MidiOut</string>
+		<string>Midi Out</string>
+		<string>{337, 962}</string>
+		<string>{547, 32}</string>
+		<integer>-1691915897</integer>
+		<string>iPhone-CF - Bluetooth</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>57</integer>
+			</dict>
+			<key>list</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>641</integer>
+			</dict>
+			<key>name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>640</integer>
+			</dict>
+		</dict>
+		<string>iPhone-CF USB1 In</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>56</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>642</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>649</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>12</integer>
+			</dict>
+			<key>currentFrame.origin</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>645</integer>
+			</dict>
+			<key>currentFrame.size</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>646</integer>
+			</dict>
+			<key>currentID</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>647</integer>
+			</dict>
+			<key>currentName</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>648</integer>
+			</dict>
+			<key>currentVirtual</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>group</key>
+			<integer>1</integer>
+			<key>isHijacked</key>
+			<false/>
+			<key>name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>644</integer>
+			</dict>
+			<key>nibName</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>643</integer>
+			</dict>
+			<key>panelMode</key>
+			<false/>
+		</dict>
+		<string>MidiIn</string>
+		<string>Midi In</string>
+		<string>{748, 449}</string>
+		<string>{547, 32}</string>
+		<integer>1308902887</integer>
+		<string>iConnectMIDI4+ - USB 1</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>55</integer>
+			</dict>
+			<key>currentFrame.origin</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>652</integer>
+			</dict>
+			<key>currentFrame.size</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>653</integer>
+			</dict>
+			<key>currentID</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>654</integer>
+			</dict>
+			<key>currentName</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>655</integer>
+			</dict>
+			<key>currentVirtual</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>group</key>
+			<integer>2</integer>
+			<key>name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>651</integer>
+			</dict>
+			<key>nibName</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>650</integer>
+			</dict>
+			<key>noteOffVelocity</key>
+			<false/>
+			<key>panelMode</key>
+			<false/>
+			<key>passThrough</key>
+			<true/>
+		</dict>
+		<string>MidiOut</string>
+		<string>Midi Out</string>
+		<string>{715, 548}</string>
+		<string>{547, 32}</string>
+		<integer>707300495</integer>
+		<string>IAC Driver - iPhone-CF Bluetooth Proxy In</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>57</integer>
+			</dict>
+			<key>list</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>658</integer>
+			</dict>
+			<key>name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>657</integer>
+			</dict>
+		</dict>
+		<string>iPhone-CF USB1 Out</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>56</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>659</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>666</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>12</integer>
+			</dict>
+			<key>currentFrame.origin</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>662</integer>
+			</dict>
+			<key>currentFrame.size</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>663</integer>
+			</dict>
+			<key>currentID</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>664</integer>
+			</dict>
+			<key>currentName</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>665</integer>
+			</dict>
+			<key>currentVirtual</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>group</key>
+			<integer>1</integer>
+			<key>isHijacked</key>
+			<false/>
+			<key>name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>661</integer>
+			</dict>
+			<key>nibName</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>660</integer>
+			</dict>
+			<key>panelMode</key>
+			<false/>
+		</dict>
+		<string>MidiIn</string>
+		<string>Midi In</string>
+		<string>{769, 426}</string>
+		<string>{547, 32}</string>
+		<integer>1080970173</integer>
+		<string>IAC Driver - iPhone-CF Bluetooth Proxy Out</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>55</integer>
+			</dict>
+			<key>currentFrame.origin</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>669</integer>
+			</dict>
+			<key>currentFrame.size</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>670</integer>
+			</dict>
+			<key>currentID</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>671</integer>
+			</dict>
+			<key>currentName</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>672</integer>
+			</dict>
+			<key>currentVirtual</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>group</key>
+			<integer>2</integer>
+			<key>name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>668</integer>
+			</dict>
+			<key>nibName</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>667</integer>
+			</dict>
+			<key>noteOffVelocity</key>
+			<false/>
+			<key>panelMode</key>
+			<false/>
+			<key>passThrough</key>
+			<true/>
+		</dict>
+		<string>MidiOut</string>
+		<string>Midi Out</string>
+		<string>{736, 525}</string>
+		<string>{547, 32}</string>
+		<integer>1967573613</integer>
+		<string>iConnectMIDI4+ - USB 1</string>
 	</array>
 	<key>$top</key>
 	<dict>
